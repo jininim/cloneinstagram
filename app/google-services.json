@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122716099816",
+    "project_id": "jinstagram16-f1224",
+    "storage_bucket": "jinstagram16-f1224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122716099816:android:806ffd4095bd34c1c9e55d",
+        "android_client_info": {
+          "package_name": "com.example.jinstargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122716099816-t8hcqad6v5si8ct9bove4auphsdb455u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVxUyImH6qNmT4wlPFR9zn-2fs0uD7QJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122716099816-t8hcqad6v5si8ct9bove4auphsdb455u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
